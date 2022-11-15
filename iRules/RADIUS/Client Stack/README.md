@@ -154,3 +154,4 @@ In detail the RADIUS Client Stack Processor has the following functionality:
 # Workflow of the RADIUS Client Stack Processor
 The workflow below outlines the detailed logic of the RADIUS Client Stack Processor. 
 
+![This is an image](RadCLI%20-%20Processor.svg)
