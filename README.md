@@ -1,3 +1,3 @@
 # Description
 
-This is my Github for F5 DevCentral / CrowSRC related content.
+This is a Github repository for my F5 DevCentral / CrowSRC related work.
